@@ -1,7 +1,8 @@
 Contextualplanner Android releases
 ==================================
 
-Maven repository for the Contextualplanner Android releases
+Maven repository for the Contextualplanner Android releases<br/>
+Url of the project: https://github.com/carloacu/contextualplanner-android
 
 
 ### Command line to generate a version
