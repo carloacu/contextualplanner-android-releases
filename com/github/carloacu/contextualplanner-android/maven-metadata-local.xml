@@ -3,7 +3,7 @@
   <groupId>com.github.carloacu</groupId>
   <artifactId>contextualplanner-android</artifactId>
   <versioning>
-    <release>1.1.14</release>
+    <release>1.1.15</release>
     <versions>
       <version>1.0.2</version>
       <version>1.0.3</version>
@@ -25,7 +25,8 @@
       <version>1.1.12</version>
       <version>1.1.13</version>
       <version>1.1.14</version>
+      <version>1.1.15</version>
     </versions>
-    <lastUpdated>20220830124935</lastUpdated>
+    <lastUpdated>20220830160513</lastUpdated>
   </versioning>
 </metadata>
